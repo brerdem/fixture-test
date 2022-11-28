@@ -45,7 +45,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Fixture Test</title>
-        <meta name="description" content="Generated description" />
+        <meta name="description" content="Generated description test" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
